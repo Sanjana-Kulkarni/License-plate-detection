@@ -4,7 +4,11 @@
 
 This repository contains the implementation of a **License Plate Detection** project, designed to detect and recognize license plates from vehicle images. The project utilizes machine learning techniques and OpenCV for image processing and is implemented in Python using Jupyter Notebook.
 
----
+## Datasets
+Here is the Drive link for more information
+Python code : https://drive.google.com/file/d/1ohs2dGRjeS9QdRFoN7WSKHCW68-m08AP/view
+Output file : https://drive.google.com/file/d/1vYP6Q5BakWZmSDIqL2dvEw3sirWiQAXQ/view
+Datasets and more : https://drive.google.com/drive/folders/1ThHnUQjkCNTOKXnvySVfpHZxZbYsFfMQ
 
 ## 📋 Features
 
@@ -24,4 +28,4 @@ This repository contains the implementation of a **License Plate Detection** pro
   - Matplotlib
   - TensorFlow/Keras or PyTorch
   - Tesseract easyOCR (for text recognition)
-
+ 
