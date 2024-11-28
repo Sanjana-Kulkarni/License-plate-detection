@@ -6,6 +6,7 @@ This repository contains the implementation of a **License Plate Detection** pro
 
 ## Datasets
 Here is the Drive link for more information
+
 Python code : https://drive.google.com/file/d/1ohs2dGRjeS9QdRFoN7WSKHCW68-m08AP/view
 
 Output file : https://drive.google.com/file/d/1vYP6Q5BakWZmSDIqL2dvEw3sirWiQAXQ/view
